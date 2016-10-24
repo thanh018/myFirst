@@ -1,7 +1,6 @@
 {
   "name": "mean",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/thanh018/myFirst/issues"
   },
-  "homepage": "https://github.com/thanh018/myFirst#readme"
+  "homepage": "https://github.com/thanh018/myFirst#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5"
+  },
+  "devDependencies": {},
+  "description": ""
 }
